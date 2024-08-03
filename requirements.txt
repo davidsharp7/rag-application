@@ -1,0 +1,2 @@
+langchain==0.2.12
+notebook==7.2.1

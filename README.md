@@ -1,6 +1,9 @@
 # rag-application
 Test repo for rag application work.
 
+![Alt text](Conversation1.png)
+![Alt text](Conversation2.png)
+
 Environment setup
 
 ```bash
